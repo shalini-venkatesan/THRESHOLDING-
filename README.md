@@ -25,8 +25,8 @@ Use Otsu's method to segment the image and display the results.
 
 ## Program
 ```
-Developed by: VASUNDRA SRI R
-Register no: 212222230168
+Developed by: SHALINI V
+Register no: 212222240096
 ```
 # Load the necessary packages
 ```
