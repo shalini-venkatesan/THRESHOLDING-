@@ -81,7 +81,12 @@ for i in range(0,9):
 ![image](https://github.com/shalini-venkatesan/THRESHOLDING-/assets/118720291/f9c4d7e0-7650-4518-b429-d1b824c3b6fb)
 
 #### Global Thresholding
-![image](https://github.com/shalini-venkatesan/THRESHOLDING-/assets/118720291/461d3093-386e-4e46-abb2-f6878765a9b8)
+![image](https://github.com/shalini-venkatesan/THRESHOLDING-/assets/118720291/24076f57-4dfd-4629-b375-9b7f2633d6c0)
+
+![image](https://github.com/shalini-venkatesan/THRESHOLDING-/assets/118720291/10a46f6c-d950-46bb-a97a-5ebdf8bf6a5e)
+![image](https://github.com/shalini-venkatesan/THRESHOLDING-/assets/118720291/ede41fba-e238-49d5-abeb-9ad9731a631a)
+
+
 
 
 #### Adaptive Thresholding
